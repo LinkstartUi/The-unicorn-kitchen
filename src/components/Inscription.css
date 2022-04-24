@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+
+
+
+.div-inscription {
+    background-color: rgba(255, 255, 255, 0.861);
+    border-radius: 10px;
+    padding: 30px 50px 50px 50px;
+    margin: 25px 200px 25px 200px;
+}
+
+.div-inscription h1 {
+    font-family: 'Just Another Hand', serif;
+    font-size: 50px;
+    letter-spacing: 6px;
+}
+
+.div-formulaire {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+    justify-content: center;  
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.label-infos {
+    margin: 5px;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+.input-inscription {
+    padding: 10px;
+    margin: 30px auto 15px auto;
+    width: auto;
+    font-size: 20px;
+    background: rgb(215,101,40);
+    background: linear-gradient(90deg, rgba(215,101,40,1) 0%, rgba(215,140,40,1) 50%, rgba(252,176,69,1) 100%);
+    color: antiquewhite;
+    border: 1px solid orange;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.input-inscription:hover{
+    color: black;
+
+}
+
+.div-formulaire label {
+    padding: 5px;
+}

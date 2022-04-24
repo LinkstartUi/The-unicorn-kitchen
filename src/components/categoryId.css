@@ -1,0 +1,60 @@
+
+.css-uym98a-MuiImageList-root {
+    grid-gap: 20px;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-auto-flow: row;
+    margin: auto;
+    width: 100rem !important;
+    height: 100rem !important;
+}
+
+span{
+    font-size: 3rem !important;
+    line-height: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: rgb(0, 0, 0) !important;
+    margin-bottom :90%;
+    justify-self: center;
+    font-weight: 900;
+    padding: auto;
+}
+.Galcat-id{
+    font-size: 3rem !important;
+    line-height: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: rgb(0, 0, 0) !important;
+    margin-bottom :90%;
+    justify-self: center;
+    font-weight: 900;
+    padding: auto;
+}
+
+
+.css-uob957-MuiListSubheader-root {
+    font-weight: 500 !important;
+    font-size: 2rem !important;
+    background-color: rgb(255, 255, 255)!important;
+    font-weight: 900 !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.btn-catId{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    background-color: #fff;
+    border: #fff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}

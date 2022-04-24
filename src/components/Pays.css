@@ -1,0 +1,65 @@
+.Pays-btn {
+  /* background-color: #d1d2d1; */
+  border: 2px solid #000000;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+  width: 100px;
+}
+.Ziyad-link:hover {
+  background-color: #67676780;
+  color: #ffffff;
+  list-style: none;
+  text-decoration: none;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-gap: 20px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.Ziyad-link {
+  /* background-color: #d1d2d1; */
+  border: 2px solid #000000;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+  width: 100px;
+}
+
+.css-ztrqiq-MuiImageListItemBar-root {
+  border: 3px solid #6b0606;
+
+}
+
+.btn-catId {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0;
+  background-color: #fff;
+  border: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 100px;
+}
+.css-1y0ytjr-MuiImageList-root {
+  grid-gap: 20px;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+}
